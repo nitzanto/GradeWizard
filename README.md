@@ -31,7 +31,6 @@
     
   <h2 align="center"><a>Built With</a></h2>
     <p align="center">
-      
       </p>
 </div>
 
