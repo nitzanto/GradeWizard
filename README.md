@@ -7,54 +7,38 @@
   <h3 align="center">GradeWizard</h3>
 
   <p align="center">
-    VoicePal is an AI-powered chatbot project that leverages a lot of technologies to provide users with an engaging and interactive conversational experience. With VoicePal, users can choose to chat with a friend, an interviewer, or an AI voice assistant, depending on their needs and preferences.
+    GradeWizard is a powerful back-end project created with Spring Boot and Java, which is designed to help schools and teachers efficiently manage their students grades. 
     <br />
-    <a href="https://beta.elevenlabs.io/"><strong>Explore Eleven Labs »</strong></a>
+    <a href="https://spring.io/"><strong>Explore Spring»</strong></a>
     <br />
     <br />
     <h2><a>Demonstration</a></h2>
     <br />
+    <strong>Will be added soon</strong>
     <br />
     
   </p>
   
 
-https://user-images.githubusercontent.com/120420731/235327840-239f4c2f-043b-4b46-9450-9f68cb15355c.mp4
-
-
-
-
-
-https://user-images.githubusercontent.com/120420731/235424715-9927b439-0566-491b-a0f6-436698d976ba.mp4
-
-
-
-
   
   <h2 align="center"><a>Overview</a></h2>
 
   <p align="center">
-   VoicePal is an innovative AI-powered chatbot project that utilizes cutting-edge technologies such as TypeScript, React, FAST API, Python, Eleven Labs, and Open AI to deliver a highly engaging and interactive conversational experience. With VoicePal, users can select from a range of options, such as chatting with a friend, conducting a job interview, or interacting with an AI voice assistant, depending on their specific needs and preferences. The platform is designed to provide a seamless and enjoyable user experience, while also leveraging the latest in AI technology to create more natural and lifelike conversations.
+   GradeWizard is a back-end project in Spring Boot Java that enables schools and teachers to manage student grades efficiently. It offers CRUD operations, three-layer code architecture, MVC design pattern, beans dependency injection, and field validation. Thymeleaf integration enables server-side HTML rendering, simplifying web page creation. With GradeWizard, teachers can streamline the grading process and focus on what they do best: teaching.
     <br />
         <br />
       </p>
     
   <h2 align="center"><a>Built With</a></h2>
     <p align="center">
-       <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-    <br />
+      
       </p>
 </div>
 
 
 <h2 align="center"><a>RoadMap</a></h2>
 
-   - [x] Backend part - 27th of April
+   - [x] 
 - [x] Finished UI Design with Frontend - 28th of April
 - [x] Connected frontend and backend with axios - 29th of April
 - [x] Released a fully functional and stable version - 1.0
@@ -65,12 +49,6 @@ https://user-images.githubusercontent.com/120420731/235424715-9927b439-0566-491b
 
 </div>
 
-
-<h2 align="center"><a>Installion</a></h2>
-    <p align="center">
-        <b>To add </b>
-      </p>
-</div>
 
 
 
