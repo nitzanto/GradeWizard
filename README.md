@@ -37,14 +37,11 @@
 
 <h2 align="center"><a>RoadMap</a></h2>
 
-   - [x] 
-- [x] Finished UI Design with Frontend - 28th of April
-- [x] Connected frontend and backend with axios - 29th of April
-- [x] Released a fully functional and stable version - 1.0
-- [ ] Extra tweaks
-    - [ ] Finishing the readme file
-    - [ ] Adding instructions section
-    - [ ] Adding Installion section
+- [x] Fully form functionallity
+- [x] Field Validation
+- [x] Refactored the code into a Three Layer CodeBase (Business, Repository, Controller)
+- [x] Added Beans and Dependency Injection
+- [ ] Unit & Integration Testing
 
 </div>
 
