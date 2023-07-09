@@ -41,9 +41,22 @@
 - [x] Field Validation
 - [x] Refactored the code into a Three Layer CodeBase (Business, Repository, Controller)
 - [x] Added Beans and Dependency Injection
-- [ ] Unit & Integration Testing
 
+
+
+<h2 align="center"><a>Features</a></h2>
 </div>
+
+* Utilized a three-layer code architecture and implemented MVC
+design pattern, improving system efficiency and scalability.
+* Employed dependency injection using beans to ensure loose
+coupling and included field validation to ensure data accuracy.
+* Managed project with Jira for bug track
+* Implemented CRUD operations to manage student grades with ease
+and efficiency.
+* Conducted comprehensive unit testing and integration testing for
+Web App using JUnit and Mockito, ensuring high code quality and
+robustness of the system
 
 
 
