@@ -51,7 +51,7 @@
 design pattern, improving system efficiency and scalability.
 * Employed dependency injection using beans to ensure loose
 coupling and included field validation to ensure data accuracy.
-* Managed project with Jira for bug track
+* Managed project with Jira for bug tracking
 * Implemented CRUD operations to manage student grades with ease
 and efficiency.
 * Conducted comprehensive unit testing and integration testing for
